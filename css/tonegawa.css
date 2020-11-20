@@ -1,0 +1,66 @@
+header{
+    color: ivory;
+    width: 1000px;
+    margin: 0 auto;
+    font-size: 60px;
+    text-align:center;
+    font-family:"ヒラギノ丸ゴ Pro W4"
+}
+body{
+    background: linear-gradient(purple,blue);     
+}
+#zibun{
+    width: 400px;
+    margin: 0 auto;
+}
+#uraa{
+    width: 400px;
+    margin: 0 auto;
+}
+.result{
+    position: absolute;
+    top: 600px;  
+}
+.result img{
+    width: 595px;
+}
+.aite{
+    position: absolute;
+    left: 800px;
+}
+.syouhai{
+    position: absolute;
+    left: 650px;
+    top: 1000px;
+    color: azure;
+    background-color: brown;
+    font-size: 50px;
+}
+.button{
+    position: absolute;
+    left: 650px;
+    top: 1000px;
+    color: azure;
+    background-color: brown;
+    font-size: 50px;
+}
+.syobu{
+    position: absolute;
+    left: 650px;
+    top: 800px;
+    color: azure;
+    background-color: black;
+    font-size: 50px;
+}
+.kaizi{
+    position: absolute;
+    left: 1300px;
+    bottom: 700px;
+    color: cornsilk;
+}
+.tonegawa{
+    position: absolute;
+    left: 1300px;
+    bottom: 660px ;
+    color: cornsilk;
+}

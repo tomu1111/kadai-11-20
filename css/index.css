@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(black, red);
+}
+.title{
+    color: white;
+}
+p {
+    font-size: 100px;
+}
+img{
+    float: right;
+}

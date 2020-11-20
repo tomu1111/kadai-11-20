@@ -1,0 +1,92 @@
+header{
+    color: ivory;
+    width: 1000px;
+    margin: 0 auto;
+    font-size: 60px;
+    text-align:center;
+    font-family:"ヒラギノ丸ゴ Pro W4"
+}
+body{
+    background: linear-gradient(black, red);     
+}
+main{
+  background-color: green;
+  width: 1400px;
+  height: 600px;
+  margin: 0 auto;
+  position: relative;
+  bottom: 20px;
+}
+.gu-{
+ width: 100px;
+}
+.cyoki{
+    width: 100px;
+}
+.pa-{
+    width: 100px;
+}
+.uraa{
+    text-align: center;
+    position: relative;
+}
+.ura{
+    width: 100px;
+    height: 140px;
+}
+#uraa{
+    width: 1000px;
+    margin: 0 auto;
+    position: relative;
+}
+#uraa img{
+    padding: 5px;
+}
+#zibun{
+    width: 1000px;
+    margin: 0 auto;
+    position: relative;
+    top: 280px;
+}
+#zibun img{
+    padding: 5px;
+}
+.result{
+    width: 100px;
+    position: absolute;
+    bottom: 240px;
+    left: 500px;
+}
+.aite img{
+    width: 100px;
+    position: absolute;
+    bottom: 245px;
+    left: 700px;
+    transform: rotate( -180deg );
+}
+.winner{
+    position: absolute;
+    bottom: 500px;
+    left: 1250px;
+    color: white;
+}
+.syobu{
+    position: absolute;
+    bottom: 280px;
+    left: 1200px;
+    font-size: 60px;
+}
+.button{
+    text-align: center;
+    position: absolute;
+    left: 630px;
+    bottom: 280px;
+    color: lavenderblush;
+}
+.syouhai{
+    position: absolute;
+    left: 550px;
+    bottom:260px;
+    font-size: 100px;
+    color: white;
+}
